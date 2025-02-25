@@ -72,7 +72,7 @@ export default function HomePage() {
         </div>
       </Wrapper>
       {/* Featured Posts  */}
-      <Wrapper bgColor="bg-orange-50" className="space-y-5 py-16">
+      {/* <Wrapper bgColor="bg-orange-50" className="space-y-5 py-16">
         <h2 className="mb-5 text-3xl font-bold text-blue-900">
           Our Featured Posts
         </h2>
@@ -85,9 +85,9 @@ export default function HomePage() {
             </div>
           )}
         </div>
-      </Wrapper>
+      </Wrapper> */}
       {/* Recent News  */}
-      <Wrapper bgColor="bg-blue-50" className="space-y-5 py-16">
+      {/* <Wrapper bgColor="bg-blue-50" className="space-y-5 py-16">
         <h2 className="mb-5 text-3xl font-bold text-blue-900">
           Our Recent News
         </h2>
@@ -100,7 +100,7 @@ export default function HomePage() {
             </div>
           )}
         </div>
-      </Wrapper>
+      </Wrapper> */}
       {/* Testimonials  */}
       <Wrapper bgColor="bg-orange-50" className="relative space-y-5 py-16">
         <h2 className="mb-5 text-center text-3xl font-bold text-blue-900">
