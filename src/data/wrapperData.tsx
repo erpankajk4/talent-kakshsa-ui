@@ -86,6 +86,38 @@ export const header = {
       href: "/contact-us",
       subNav: [],
     },
+    {
+      id: 9,
+      label: "Other",
+      href: "#",
+      subNav: [
+        {
+          id: 61,
+          label: "Affiliate Program",
+          href: "/affiliate-program",
+        },
+        {
+          id: 62,
+          label: "Affiliate Program User",
+          href: "/affiliate-program/user-1",
+        },
+        {
+          id: 63,
+          label: "Community",
+          href: "/community",
+        },
+        {
+          id: 64,
+          label: "Discussion Forum",
+          href: "/discussion-forum",
+        },
+        {
+          id: 64,
+          label: "Discussion Forum Forum-1",
+          href: "/discussion-forum/forum-1",
+        },
+      ],
+    },
   ],
 };
 export const footer = {
